@@ -1,4 +1,4 @@
-const CACHE = 'bracknell-bins-v1';
+const CACHE = 'bracknell-bins-v2';
 const FILES = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
