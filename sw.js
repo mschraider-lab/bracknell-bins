@@ -1,3 +1,4 @@
+// force-redeploy: previous Pages build got stuck mid-deploy and timed out
 const CACHE = 'bracknell-bins-v2';
 const FILES = ['./', './index.html', './manifest.json'];
 
